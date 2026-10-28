@@ -2,7 +2,7 @@
 
 Lucid-style portfolio website for Abid Ahmad, a 3D Artist & Creative Designer from Rajbari, Bangladesh.
 
-- 3D modeling, jewelry CAD, photorealistic rendering, 3D animation, data annotation and B2B lead research
+- 3D modeling, jewelry CAD, photorealistic rendering, 3D animation, data annotation
 - Email: Abidahmadullah@gmail.com
 - Phone: 01673829424
 - WhatsApp: +8801673829424 — https://wa.me/8801673829424
